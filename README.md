@@ -1,5 +1,6 @@
 **Introduction**
-This guide outlines the steps required to run the project, which consists of both a C++ component and a Python component. The C++ component generates data files used by the Python component to produce graphical outputs.
+This guide outlines the steps required to run the project, which consists of both a C++ component and a Python component. 
+The C++ component generates data files used by the Python component to produce graphical outputs.
 
 **Prerequisites**
 - C++ compiler installed (e.g., GCC, Clang)
